@@ -1,4 +1,4 @@
-### Hola soy Franco👋
+
 
 <!--
 **FrancoN99/FrancoN99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,28 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi, I'm Franco
 
-Actualmente estoy formandome en la carrera Licenciatura Ciencia de Datos de la UNSAM
-a la par que creo proyectos y aprendo por cuenta propia.
-
-Estas son las herramientas que utilizo:
+My Tools:
 Git
-Python
+Python 
 JavaScript
+NextJS
 React
 R
 SQL
 CSS
 HTML
-
-
-Projectos DS:
-
-
-Proyectos Python:
-
-
-Projectos Frontend:
-
-Contacto:
-Mail,Linkedin,
+Firebase
