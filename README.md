@@ -2,6 +2,8 @@
 
 My Tools:
 Git
+C
+C++
 Python 
 JavaScript
 NextJS
