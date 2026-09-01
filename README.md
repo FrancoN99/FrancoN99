@@ -1,3 +1,7 @@
+# Hi, I'm Franco 👋
+
+I'm a student pursuing a **Technical Degree in Computer Programming at UNSAM**
+
 ## 🌱 My Tech Stack & Tools
 
 ---
